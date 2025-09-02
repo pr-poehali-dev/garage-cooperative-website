@@ -74,7 +74,7 @@ const Index = () => {
             <div className="flex items-center space-x-3">
               <Icon name="Car" className="text-blue-600" size={32} />
               <div>
-                <h1 className="text-2xl font-bold text-gray-900">Гаражный кооператив "Автолюбитель"</h1>
+                <h1 className="text-2xl font-bold text-gray-900">ПГСК "Южный-2"</h1>
                 <p className="text-sm text-gray-600">Современное управление кооперативом</p>
               </div>
             </div>
@@ -120,7 +120,7 @@ const Index = () => {
         {activeSection === 'home' && (
           <div className="space-y-8">
             <div className="text-center">
-              <h2 className="text-3xl font-bold text-gray-900 mb-4">Добро пожаловать в ГК "Автолюбитель"</h2>
+              <h2 className="text-3xl font-bold text-gray-900 mb-4">Добро пожаловать в ПГСК "Южный-2"</h2>
               <p className="text-lg text-gray-600 max-w-2xl mx-auto">
                 Современная система управления гаражным кооперативом с удобным учетом взносов, 
                 новостями и документооборотом
@@ -390,7 +390,7 @@ const Index = () => {
               <CardContent className="p-8">
                 <div className="prose max-w-none">
                   <p className="text-lg text-gray-600 mb-6">
-                    Гаражный кооператив "Автолюбитель" основан в 1985 году и объединяет 150 владельцев гаражей.
+                    ПГСК "Южный-2" основан в 1985 году и объединяет 150 владельцев гаражей.
                   </p>
                   <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
                     <div>
